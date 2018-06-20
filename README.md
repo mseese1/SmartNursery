@@ -3,7 +3,7 @@
 Smart Nursery is a simple application which runs on multiple platforms to monitor sensory data in a given location using a Raspberry Pi, and switch on and off appliances.  The application does require some hardware set up that will take a small amount of electrical knowledge unless by some miraculous event you happen to have a few 5v relay switches wired to 125v receptacles with outputs for GPIO at the given location.
 
 **main.py**
-This is the python code meant to run on the Raspberry Pi module.
+- This is the python code meant to run on the Raspberry Pi module.
 
 **#Input Variables**
 - degrees → data received from BME280 on temperature
